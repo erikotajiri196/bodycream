@@ -35,7 +35,7 @@ html{
 
 .baby .page-tittle{
     text-align: left;
-	display: inline-block;
+    display: inline-block;
 }
 .image3{
     width: 357px;
@@ -47,7 +47,8 @@ html{
     color:#683E3E;
     margin-right: 0px;
     position: relative;
-    margin-top: 50px;
+    margin-top: 7px;
+    margin-bottom: 331px;
 }
 .page-tittle span{
     text-align: left;
