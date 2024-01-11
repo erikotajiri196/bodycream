@@ -64,8 +64,8 @@ html{
 }
 
 .demo{
-    left:20%;
-    font-size: 23px;
+    left:15%;
+    font-size: 26px;
     background-color: #fff;
     padding:2px 4px;
     line-height: 1.7;
@@ -73,6 +73,10 @@ html{
     -webkit-box-direction-break: clone;
     box-decoration-break: clone;
     margin-top:0px;
+    position: relative;
+}
+.demo span{
+    transform: translate(-50%,-50%);
 }
 .flex0{
     display: flex;
